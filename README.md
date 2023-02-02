@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋! Sou Enrique Marquez Ribeiro</h1>
-<h3 align="center">Tenho 16 anos e atualmente sou estudante de Front-End, no cenário do FiveM</h3>
-
-- 🔭 Atualmente trabalho apenas no **FiveM**
+<h3 align="center">Tenho 16 anos e atualmente sou estudante de desenvolvimento Front-End</h3>
 
 - 🌱 Atualmente estou aprendendo **Vite + React.JS**
 
