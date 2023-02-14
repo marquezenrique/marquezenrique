@@ -1,16 +1,33 @@
-<h1 align="center">Olá 👋! Sou Enrique Marquez Ribeiro</h1>
-<h3 align="center">Tenho 16 anos e atualmente sou estudante de desenvolvimento Front-End</h3>
+![](https://komarev.com/ghpvc/?username=marquezzx&color=006bed)
 
-- 🌱 Atualmente estou aprendendo **Vite + React.JS**
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-- 👨‍💻 Meus projetos estão disponíveis em [discord.gg/AYftJnGj2E](https://discord.gg/AYftJnGj2E)
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Front-end**
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<h3 align="left">Contatos:</h3>
-<p align="left">
-<a href="https://instagram.com/emribeiroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emribeiroo" height="30" width="40" /></a>
-<a href="https://www.behance.net/mrqzui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrqzui" height="30" width="40" /></a>
-<a href="https://discord.gg/AYftJnGj2E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AYftJnGj2E" height="30" width="40" /></a>
-</p>
+**Habilidades**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React&logoColor=1572B6)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/marquezzx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Gmail Badge](https://img.shields.io/badge/-marquez@lynx-lab.net-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marquez@lynx-lab.net)
+[![LynX Lab]( https://img.shields.io/github/followers/marquezzx?label=follow&style=social)](https://lynx-lab.net/)
