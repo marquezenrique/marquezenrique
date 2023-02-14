@@ -14,6 +14,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React&logoColor=1572B6)
+  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino&logoColor=1572B6)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#&logoColor=1572B6)
+
 
 **Ferramentas de Desenvolvimento**
 
@@ -23,5 +26,5 @@
 <br/>
 
 <a href="https://github.com/marquezzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=react&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=github&show_icons=true" />
 </a>
