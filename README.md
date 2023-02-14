@@ -28,6 +28,4 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Gmail Badge](https://img.shields.io/badge/-marquez@lynx-lab.net-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marquez@lynx-lab.net)
-[![LynX Lab]( https://img.shields.io/github/followers/marquezzx?label=follow&style=social)](https://lynx-lab.net/)
+Meu servidor no [Discord](https://discord.gg/AYftJnGj2E).
