@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Front-end**
+- 💻 &nbsp; __Founder:__ [LynX Lab](https://lynx-lab.net/) 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
