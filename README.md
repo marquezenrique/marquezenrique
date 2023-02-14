@@ -25,8 +25,3 @@
 <a href="https://github.com/marquezzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=dracula&show_icons=true" />
 </a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-Meu servidor no ![Discord](https://discord.gg/AYftJnGj2E)
