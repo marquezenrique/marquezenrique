@@ -15,7 +15,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React&logoColor=1572B6)
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino&logoColor=1572B6)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#&logoColor=1572B6)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C#&logoColor=1572B6)
 
 
 **Ferramentas de Desenvolvimento**
