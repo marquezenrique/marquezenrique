@@ -28,4 +28,4 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-Meu servidor no [Discord](https://discord.gg/AYftJnGj2E).
+Meu servidor no ![Discord](https://discord.gg/AYftJnGj2E)
