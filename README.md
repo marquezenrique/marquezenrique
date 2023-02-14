@@ -28,5 +28,5 @@
 <br/>
 
 <a href="https://github.com/marquezzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=github&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=react&show_icons=true" />
 </a>
