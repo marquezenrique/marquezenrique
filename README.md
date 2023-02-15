@@ -14,6 +14,7 @@
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React&logoColor=1572B6)
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino&logoColor=1572B6)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#&logoColor=1572B6)
+  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=1572B6)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
