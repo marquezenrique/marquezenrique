@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias e desenvolver soluções de software.
 - 🎓 &nbsp; Estudando **Front-end**
-- 💻 &nbsp; __Founder:__ [LynX Lab](https://lynx-lab.net/) 
+- 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
