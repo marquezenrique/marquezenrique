@@ -10,7 +10,7 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less)
   <br>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
