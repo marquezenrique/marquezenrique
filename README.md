@@ -15,6 +15,7 @@
   <br>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React&logoColor=1572B6)
+  ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite&logoColor=1572B6)
   <br>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino&logoColor=1572B6)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#&logoColor=1572B6)
