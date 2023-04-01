@@ -11,7 +11,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
-  ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less)
+  ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
@@ -19,7 +19,7 @@
   <br>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
-  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua)
+  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
