@@ -10,24 +10,24 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less)
   <br>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
   ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
   <br>
-  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino&logoColor=1572B6)
-  ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#&logoColor=1572B6)
-  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=1572B6)
+  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
+  ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
+  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=783fb5)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=AdobeXD&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=AdobeXD)
 
 
 <br/>
