@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Estudando **Front-end**;
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
-<h2> 🚀 &nbsp; Habilidades </h2>
+<h3> 🚀 &nbsp; Habilidades </h3>
 <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
