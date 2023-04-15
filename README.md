@@ -7,19 +7,18 @@
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
-  Front-End
+  Front-end
+  <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
-  Framework's
-  <br>
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
   ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
   <br>
-  Back-End
-  <br>
+  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Arduino)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
   ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=0182dd)
