@@ -1,23 +1,25 @@
 ![](https://komarev.com/ghpvc/?username=marquezzx&color=006bed)
 
-<h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
+<h2> 🙋‍♂️ &nbsp;Sobre mim </h2>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias;
 - 🤌 &nbsp; Fascinado em desenvolver nosas resoluções de software e interfaces intuitivas;
 - 🎓 &nbsp; Estudando **Front-end**;
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
-<h3> 🚀 &nbsp; Habilidades </h3>
-
+<h2> 🚀 &nbsp; Habilidades </h2>
+<h4>Front-End </h3>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
+<h4>Frameworks</h4>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
   ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
   <br>
+<h3>Back-End </h3>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Python)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
