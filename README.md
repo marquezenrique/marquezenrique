@@ -18,7 +18,7 @@
   ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
   <br>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
-  ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Arduino)
+  ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Python)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
   ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=0182dd)
 
