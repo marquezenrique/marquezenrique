@@ -20,7 +20,7 @@
   <br>
   ![.py](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
   ![.cs](https://img.shields.io/badge/CSharp-333?style=for-the-badge&logo=C#&logoColor=68217a)
-  ![.lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
+  ![.lua](https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=Lua&logoColor=0182dd)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
