@@ -6,14 +6,13 @@
 - 🎓 &nbsp; Estudando **Front-end**
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
-<h3> 🚀 &nbsp; Habilidades </h3>
-
-<!--   ![Amazon Alexa](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white) -->
+<h2> 🚀 &nbsp; Habilidades Front-End</h2>
   ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
   ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
   ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
   ![.less](https://img.shields.io/badge/LessJS-333?style=for-the-badge&logo=less&logoColor=0182dd)
   <br>
+<h2> 🚀 &nbsp; Frameworks Front-End</h2>
   <br>
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
   ![ViteJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
