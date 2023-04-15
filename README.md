@@ -8,9 +8,9 @@
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
-  ![Amazon Alexa](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)
- 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+<!--   ![Amazon Alexa](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white) -->
+  ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+  ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
