@@ -9,21 +9,19 @@
 
 <h2> 🚀 &nbsp; Habilidades </h2>
 <br>
-<h4>Front-End </h3>
-<br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=0182dd)
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
-<h4>Frameworks</h4>
-<br>
+  <h3>Frameworks</h3>
+  <br>
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
   ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
   <br>
-<h3>Back-End </h3>
-<br>
+  <h3>Back-End </h3>
+  <br>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Python)
   ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
