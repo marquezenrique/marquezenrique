@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=marquezzx&color=006bed)
 
-<h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
+<h2> 🙋‍♂️ &nbsp;Sobre mim </h2>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias e desenvolver soluções de software.
 - 🎓 &nbsp; Estudando **Front-end**
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
-<h3> 🚀 &nbsp; Habilidades </h3>
+<h2> 🚀 &nbsp; Habilidades </h2>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -23,7 +23,7 @@
   ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
-<h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
+<h2> 🌐 &nbsp; Ferramentas de Desenvolvimento </h2>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=23a9f2)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=c18ef1)
