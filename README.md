@@ -26,7 +26,7 @@
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
   ![.vscode](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visual-studio-code&logoColor=23a9f2)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=c18ef1)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5AC710?style=for-the-badge&logo=visual-studio&logoColor=c18ef1)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=AdobeXD)
 
