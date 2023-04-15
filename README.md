@@ -20,7 +20,7 @@
   <br>
   <br>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Arduino)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C#)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
