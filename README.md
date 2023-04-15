@@ -15,14 +15,13 @@
   <br>
   <br>
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=VueJS)
-  ![ReactJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
+  ![ViteJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=e42939)
   <br>
   <br>
-  ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
-  ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=Arduino)
-  ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=C#)
-  ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=Lua&logoColor=0182dd)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Arduino)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
