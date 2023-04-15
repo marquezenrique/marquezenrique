@@ -15,7 +15,7 @@
   <br>
   <br>
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=VueJS)
   ![ReactJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
   <br>
   <br>
