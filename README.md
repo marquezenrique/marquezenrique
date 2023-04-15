@@ -6,21 +6,21 @@
 - 🎓 &nbsp; Estudando **Front-end**
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
-<h3> 🚀 &nbsp; Habilidades Front-End</h3>
+<h3> 🚀 &nbsp; Habilidades </h3>
+
   ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+  ![.ts](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
   ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
   ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
   ![.less](https://img.shields.io/badge/LessJS-333?style=for-the-badge&logo=less&logoColor=0182dd)
   <br>
+  ![react](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
+  ![vite](https://img.shields.io/badge/Vite-333?style=for-the-badge&logo=Vite)
+  ![angular](https://img.shields.io/badge/Angular-333?style=for-the-badge&logo=Angular&logoColor=d82d2f)
   <br>
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
-  ![ViteJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=e42939)
-  <br>
-  <br>
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=7c3584)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
+  ![.py](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
+  ![.cs](https://img.shields.io/badge/CSharp-333?style=for-the-badge&logo=C#&logoColor=68217a)
+  ![.lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
