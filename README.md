@@ -19,8 +19,8 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=e42939)
   <br>
   <br>
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Arduino)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C#)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=7c3584)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0182dd)
 
 
