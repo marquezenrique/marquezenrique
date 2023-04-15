@@ -14,9 +14,9 @@
   ![LessJS](https://img.shields.io/badge/-LessJS-333333?style=flat&logo=less&logoColor=0182dd)
   <br>
   <br>
-  ![ReactJS](https://img.shields.io/badge/-REACT-333333?style=flat&logo=React)
-  ![VueJS](https://img.shields.io/badge/-VUE-333333?style=flat&logo=Vue)
-  ![ViteJS](https://img.shields.io/badge/-VITE-333333?style=flat&logo=Vite)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue)
+  ![ReactJS](https://img.shields.io/badge/-ViteJS-333333?style=flat&logo=Vite)
   <br>
   <br>
   ![ARDUINO](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=Arduino)
