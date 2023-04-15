@@ -10,6 +10,7 @@
 
   ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
   ![.ts](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
+  <br>
   ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
   ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
   ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
