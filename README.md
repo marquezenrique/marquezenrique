@@ -32,10 +32,3 @@
   ![.vs](https://img.shields.io/badge/Visual%20Studio-333?style=for-the-badge&logo=visual-studio&logoColor=c18ef1)
   ![figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma)
   ![adobexd](https://img.shields.io/badge/AdobeXD-333?style=for-the-badge&logo=AdobeXD)
-
-
-<br/>
-
-<a href="https://github.com/marquezzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquezzx&theme=react&show_icons=true" />
-</a>
