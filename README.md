@@ -3,7 +3,7 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Estudando **Front-end**
+- 🎓 &nbsp; Programador **Front-end** Júnior.
 - 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
