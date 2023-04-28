@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador **Front-end** Júnior.
-- 💻 &nbsp; __Founder & Owner:__ [OneSource](https://lynx-lab.net/) (FiveM Resources) 
+- 💻 &nbsp; __Founder & Owner:__ [OneSource](https://discord.gg/YSenepBjcS) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
@@ -20,6 +20,7 @@
   ![.py](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
   ![.cs](https://img.shields.io/badge/CSharp-333?style=for-the-badge&logo=C#&logoColor=68217a)
   ![.lua](https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=Lua&logoColor=0182dd)
+  ![.sql](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=MySQL)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
