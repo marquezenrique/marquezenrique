@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador **Front-end** Júnior.
-- 💻 &nbsp; __Founder & Owner:__ [LynX Lab](https://lynx-lab.net/) 
+- 💻 &nbsp; __Founder & Owner:__ [OneSource](https://lynx-lab.net/) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
