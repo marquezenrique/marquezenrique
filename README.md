@@ -6,14 +6,14 @@
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
+  ![react](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
   ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
   ![.ts](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
-  <br>
   ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
+  <br>
   ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
   ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
   ![.scss](https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=Sass)
-  ![react](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
   <br>
   <br>
   ![.py](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
