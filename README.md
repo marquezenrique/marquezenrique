@@ -7,6 +7,7 @@
 <h3> 🚀 &nbsp; Habilidades </h3>
 
   ![react](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
+  ![svelte](https://img.shields.io/badge/Svelte-333?style=for-the-badge&logo=Svelte)
   ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
   ![.ts](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
   ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
