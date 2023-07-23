@@ -13,7 +13,7 @@
   ![react](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
   ![svelte](https://img.shields.io/badge/Svelte-333?style=for-the-badge&logo=Svelte)
   ![solid](https://img.shields.io/badge/Solid-333?style=for-the-badge&logo=Solid&logoColor=0073ff)
-  ![vue](https://img.shields.io/badge/Vue-333?style=for-the-badge&logo=Vue)
+  ![vue](https://img.shields.io/badge/Vue-333?style=for-the-badge&logo=vue.js)
   <br>
   ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
   ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
