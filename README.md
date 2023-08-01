@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador **Front-end** Júnior.
-- 💻 &nbsp; __Founder & Owner:__ [OneSource](https://discord.gg/YSenepBjcS) (FiveM Resources) 
+- 💻 &nbsp; __Founder & Owner:__ [OneSource](https://onesource-page.vercel.app/) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
