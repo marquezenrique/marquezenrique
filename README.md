@@ -19,6 +19,7 @@
   ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
   ![.scss](https://img.shields.io/badge/Sass-333?style=for-the-badge&logo=Sass)
   ![styled](https://img.shields.io/badge/Styled%20Components-333?style=for-the-badge&logo=styledcomponents)
+  ![tilwind](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwind)
   <br>
   <br>
   ![.py](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
