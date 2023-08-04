@@ -4,6 +4,8 @@
 - 🎓 &nbsp; Programador **Front-end** Júnior.
 - 💻 &nbsp; **Founder & Owner:** [OneSource](https://onesource-page.vercel.app/) (FiveM Resources)
 
+- c++ developer
+
 <h3> 🚀 &nbsp; Habilidades </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
