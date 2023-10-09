@@ -1,4 +1,4 @@
-<h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
+ <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador **Front-end** Júnior.
@@ -42,6 +42,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
