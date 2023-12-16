@@ -48,6 +48,7 @@
   <a href="https://www.postgresql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://prisma.io/">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="prisma" width="40" height="40"/>
   </a>
