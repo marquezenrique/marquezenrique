@@ -53,7 +53,7 @@
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="prisma" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" alt="prisma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" alt="prisma" width="40" height="40"/>
   </a>
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
