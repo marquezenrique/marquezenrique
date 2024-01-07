@@ -1,8 +1,8 @@
  <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Programador **Front-end** Júnior.
-- 💻 &nbsp; **Founder & Owner:** [OneSource](https://discord.gg/ybFtuSEuqb) (FiveM Resources)
+- 🎓 &nbsp; [Programador](https://marquezdev.com.br) **Front-end** Júnior.
+- 💻 &nbsp; **Founder** & **Owner**: [OneSource](https://discord.gg/ybFtuSEuqb) (FiveM Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
