@@ -18,6 +18,7 @@ Javascript, React, Svelte, Next, afim de aprender mais a respeito da tecnologia 
 [![](https://skillicons.dev/icons?i=vite)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=react)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=svelte)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=vue)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=solidjs)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=next)](https://marquezdev.com.br)
 <br>
