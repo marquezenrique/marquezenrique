@@ -10,5 +10,5 @@ Javascript, React, Svelte, Next, afim de aprender mais a respeito da tecnologia 
 
 ## - 🧠 Tecnologias
 
-<code>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</code>
+<code>[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tsx)](https://skillicons.dev)</code>
 
