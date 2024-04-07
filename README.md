@@ -4,7 +4,7 @@
 
 Enrique Marquez, 17, Salvador! 👾
 
-Sempre afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades.
+> Sempre afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades.
 
 `📚` Eng. de Software
 
