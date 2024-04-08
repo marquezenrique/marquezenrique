@@ -28,6 +28,7 @@ Enrique Marquez, 17, Salvador! 👾
 [![](https://skillicons.dev/icons?i=tailwind)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=styledcomponents)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=sass)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=bootstrap)](https://marquezdev.com.br)
 <br>
 [![](https://skillicons.dev/icons?i=mongodb)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=mysql)](https://marquezdev.com.br)
