@@ -2,15 +2,15 @@
 
 <h1>🙋‍♂️ Hello world!</h1>
 
-Enrique Marquez, 17, Salvador! 👾
+Enrique Marquez, 18, Salvador! 👾
 
-> Sempre afim de aprender mais a respeito da tecnologia e poder aprimorar minhas habilidades.
-
+> Front-End Developer with experience in their frameworks and familiar with agile methodologies.
 `📚` Eng. de Software
+`❤️` In love with **Typescript**
 
 <img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezzx&layout=compact&theme=transparent" alt="My Github Stats">
 
-## - 🧠 Tecnologias
+## - 🧠 Technologies and knowledge
 
 [![](https://skillicons.dev/icons?i=js)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=ts)](https://marquezdev.com.br)
@@ -34,3 +34,4 @@ Enrique Marquez, 17, Salvador! 👾
 [![](https://skillicons.dev/icons?i=mysql)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=postgresql)](https://marquezdev.com.br)
 [![](https://skillicons.dev/icons?i=prisma)](https://marquezdev.com.br)
+[![](https://skillicons.dev/icons?i=discordjs)](https://marquezdev.com.br)
