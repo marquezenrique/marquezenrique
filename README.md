@@ -8,7 +8,7 @@ Enrique Marquez, 18, Salvador! 👾
 
 `📚` Eng. de Software
 <br>
-`❤️` In love with **Typescript**
+`❤️` In love with **Web Development**
 
 <img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezzx&layout=compact&theme=transparent" alt="My Github Stats">
 
