@@ -4,7 +4,7 @@
 
 Enrique Marquez, 18, Salvador! 👾
 
-> Front-End Developer with experience in their frameworks and familiar with agile methodologies.
+> Full Stack Developer with experience in their frameworks and familiar with agile methodologies.
 
 `📚` Software Engeneering
 <br>
