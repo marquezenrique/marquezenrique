@@ -10,8 +10,6 @@ Enrique Marquez, 18, Salvador! 👾
 <br>
 `❤️` In love with **Web Development**
 
-<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezenrique&layout=compact&theme=transparent" alt="My Github Stats">
-
 ## - 🧠 Technologies and knowledge
 
 [![](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
