@@ -14,7 +14,7 @@ Enrique Marquez, 18, Salvador! 👾
 
 ## - 🧠 Technologies and knowledge
 
-[![](https://skillicons.dev/icons?i=claude)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://skillicons.dev/icons?i=claudecode)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=next)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
